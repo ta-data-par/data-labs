@@ -1,12 +1,8 @@
 # Who am I
 
-<<<<<<< HEAD
 * Where are you from? I'm from Alsace, France
 * What do you do? I am a database administrator (without the SQL things)
 * Do you have previous experience with technology/data? Yes (see previous answer)
-=======
-
->>>>>>> d07f5a41b1a859e5b3077aeb3ac27e01de25361b
 
 # Why am I here
 
