@@ -13,11 +13,4 @@
 
 * Which industry will you seek employment in? Building construction
 * What will your future role look like? Manager of Projects
-* What is your career goal? Built / blahblah
-
-* sdfcsdv
-* sdv
-* sdv
-* s
-# dzvzev
-* zcvze
+* What is your career goal? Built
