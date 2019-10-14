@@ -6,6 +6,7 @@
 
 # Why am I here
 
+
 * I'm at Ironhack to learn more about data analytics?
 * I expect to learn about programming, manipulating big dataset?
 
@@ -17,3 +18,4 @@ I will search for a job in data in a tech industry (adtech maybe)
 Doing data analysis with marketing focus in a international company
 * What is your career goal?
 Keep learning and improving my expertise
+
