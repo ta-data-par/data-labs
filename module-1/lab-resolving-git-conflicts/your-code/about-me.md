@@ -1,3 +1,3 @@
 Wadi B
 26
-data scientist life !!
+hope to become data Scientist
